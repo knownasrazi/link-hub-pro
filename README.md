@@ -1,30 +1,34 @@
-﻿<div align="center">
+<div align="center">
 
-# link-hub-pro
-
-**One hub, all your links.**
-
-![license](https://img.shields.io/github/license/knownasrazi/link-hub-pro?style=flat-square&color=ebe7e0&label=license)
-![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square&label=version)
-![cream](https://img.shields.io/badge/cream-aesthetic-ede9e3?style=flat-square&label=style)
-
-Link hub pro - polished link-in-bio for developers and creators.
+![license](https://img.shields.io/github/license/knownasrazi/link-hub-pro?style=flat-square&color=ebe7e0) ![lang](https://img.shields.io/badge/lang-Vite-ede9e3?style=flat-square) ![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square)
 
 </div>
 
 ---
 
-## Preview
+# link-hub-pro
 
-> One hub, all your links. - built for vibe coders and web developers who ship.
+> Link hub pro - polished link-in-bio for developers and creators.
+
+**One hub, all your links.** — built for vibe coders who ship.
+
+---
+
+## Manifesto
+
+Cream over chrome. Stone over shadow. This is a tool that gets out of your way.
+
+> "Link hub pro - polished link-in-bio for developers and creators."
+
+No onboarding. No dashboard. Just open and go.
 
 ## Stack
 
-- Vite + React + TypeScript
-- Tailwind CSS (cream palette)
-- Biome for lint and format
+- Vite
+- Cream tokens: #fdfcfa / #ebe7e0 / #1a1a1a
+- No tracking, no analytics by default
 
-## Get started
+## Quick start
 
 ```bash
 git clone https://github.com/knownasrazi/link-hub-pro.git
@@ -32,27 +36,7 @@ cd link-hub-pro
 bun install
 bun run dev
 ```
-link-hub-pro/
-  src/
-    App.tsx      # app shell
-    index.css    # cream tokens
-  index.html
-  vite.config.ts
-  package.json
-```
-
-## Cream tokens
-
-Cream, stone, and ink - low contrast, high taste.
 
 ## License
 
-[MIT](./LICENSE) + [Razi](https://github.com/knownasrazi)
-
----
-
-<div align="center">
-
-**link-hub-pro** - Link hub pro - polished link-in-bio for developers and creators.
-
-</div>
+MIT — [Razi](https://github.com/knownasrazi)
